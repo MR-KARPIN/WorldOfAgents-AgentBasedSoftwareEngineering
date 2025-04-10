@@ -1,0 +1,7 @@
+{
+    "durationPhases":{
+        "duration_registration": 10000,
+        "duration_match":600000
+    },
+    "initialStorage": 800
+}
